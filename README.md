@@ -1,5 +1,4 @@
-# My-PowerBI-Project
-ShopNest store Capstone
+# shopnest-powerbi-dashboard
 
 **📌 Project Overview**
 
